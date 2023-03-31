@@ -96,6 +96,12 @@
             <scope>test</scope>
         </dependency>
         -->
+        <dependency>
+            <groupId>com.atlassian.sal</groupId>
+            <artifactId>sal-api</artifactId>
+            <version>5.0.1</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>
